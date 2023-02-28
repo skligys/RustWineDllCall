@@ -1,7 +1,6 @@
 [package]
-name = "bug_runner"
+name = "bug-lib"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-bug-lib = { path = "lib" }
